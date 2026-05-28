@@ -176,7 +176,7 @@
 
 <footer class="container" style="padding:20px 0 40px" aria-label="サイトフッター">
   <p style="color:var(--muted); font-size:0.9rem">
-    お問い合わせ先メール: <a href="mailto:marrmaid012947@gmail.com">marrmaid012947@gmail.com</a>
+    お問い合わせ先メール: <a href="mailto:kotoba.soudanmadoguti@gmail.com">kotoba.soudanmadoguti@gmail.com</a>
   </p>
 </footer>
 
